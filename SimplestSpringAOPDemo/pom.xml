@@ -9,21 +9,20 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SimplestDemos.Spring</artifactId>
+    <groupId>chentao</groupId>
+    <artifactId>SimplestSpringAOPDemo</artifactId>
 
     <dependencies>
-
-        <!--引入springioc相关核心包-->
-        <!--注意,context依赖包有aop.beans,core,commons-logging等,所以不需要再手动引入-->
-        <!--当然,如果项目不是maven的应该手动保证这些jar包导入了-->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>4.1.7.RELEASE</version>
-        </dependency>
-
-
+    <!--引入springioc相关核心包-->
+    <!--注意,context依赖包有aop.beans,core,commons-logging等,所以不需要再手动引入-->
+    <!--当然,如果项目不是maven的应该手动保证这些jar包导入了-->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>4.1.7.RELEASE</version>
+    </dependency>
 
 
     </dependencies>
+
 </project>

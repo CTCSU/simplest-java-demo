@@ -8,12 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HelloWorld" />
         <module name="SimplestDemosSpring" />
+        <module name="SimplestSpring-AOPDemo" />
+        <module name="SimplestSpringAOPDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="HelloWorld" target="1.5" />
       <module name="SimplestDemos" target="1.5" />
       <module name="SimplestDemosSpring" target="1.5" />
+      <module name="SimplestSpring-AOPDemo" target="1.5" />
+      <module name="SimplestSpringAOPDemo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

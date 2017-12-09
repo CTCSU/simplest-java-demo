@@ -12,7 +12,6 @@ public class SpringBean {
     }
 
     public SpringBean(String word) {
-
         this.word = word;
     }
 

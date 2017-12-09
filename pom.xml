@@ -11,6 +11,8 @@
     <modules>
         <module>HelloWorld</module>
         <module>SimplestDemosSpring</module>
+        <module>SimplestSpringAOPDemo</module>
+        <module>SimplestSpring-AOPDemo</module>
     </modules>
 
 </project>

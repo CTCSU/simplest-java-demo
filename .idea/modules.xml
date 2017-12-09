@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimplestDemos.iml" filepath="$PROJECT_DIR$/SimplestDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimplestDemosSpring/SimplestDemosSpring.iml" filepath="$PROJECT_DIR$/SimplestDemosSpring/SimplestDemosSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimplestSpringAOPDemo/SimplestSpringAOPDemo.iml" filepath="$PROJECT_DIR$/SimplestSpringAOPDemo/SimplestSpringAOPDemo.iml" />
     </modules>
   </component>
 </project>
