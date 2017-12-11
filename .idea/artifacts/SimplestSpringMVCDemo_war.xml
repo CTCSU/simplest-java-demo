@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SimplestSpringMVCDemo:war">
+    <output-path>$PROJECT_DIR$/SimplestSpringMVCDemo/target</output-path>
+    <root id="archive" name="SimplestSpringMVCDemo.war">
+      <element id="artifact" artifact-name="SimplestSpringMVCDemo:war exploded" />
+    </root>
+  </artifact>
+</component>

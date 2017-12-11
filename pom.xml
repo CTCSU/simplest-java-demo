@@ -12,7 +12,7 @@
         <module>HelloWorld</module>
         <module>SimplestDemosSpring</module>
         <module>SimplestSpringAOPDemo</module>
-        <module>SimplestSpring-AOPDemo</module>
+        <module>SimplestSpringMVCDemo</module>
     </modules>
 
 </project>

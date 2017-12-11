@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HelloWorld" />
         <module name="SimplestDemosSpring" />
         <module name="SimplestSpring-AOPDemo" />
         <module name="SimplestSpringAOPDemo" />
+        <module name="SimplestSpringMVCDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +18,7 @@
       <module name="SimplestDemosSpring" target="1.5" />
       <module name="SimplestSpring-AOPDemo" target="1.5" />
       <module name="SimplestSpringAOPDemo" target="1.5" />
+      <module name="SimplestSpringMVCDemo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
