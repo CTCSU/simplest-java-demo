@@ -1,0 +1,8 @@
+-- 创建数据库
+create database SimplestMybatisDemo;
+-- 使用数据库
+use SimplestMybatisDemo;
+-- 创建表
+CREATE  TABLE Message (Id INTEGER auto_increment,message VARCHAR (20),PRIMARY KEY(Id));
+-- 往表里插入一条数据
+INSERT INTO  message(id,message) values(1,"Hello World!");

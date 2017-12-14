@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace自己指定也可以,但是如果想要使用接口式编程,
+就必须要和接口的全名对应,mysql根据这个找到对应的接口说明,
+并且生成一个代理类-->
+<mapper namespace="com.chentao.SimplestMybatisDemo.HelloDao">
+    <select id="selectMessage" resultType="String">
+        select message from Message where id = 1;
+    </select>
+</mapper>
