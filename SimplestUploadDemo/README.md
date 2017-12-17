@@ -7,11 +7,11 @@
 - commons-io
 - javax:servlet-api
 
-###创建步骤:
+### 创建步骤:
 ---
 #### 上传模块
 上传模块使用commons-upload的技术,这个也是web项目最常用的上传的技术.  
-***步骤;***
+**步骤:**
 1. 创建jsp页面,创建一个表单,使表单的action对应上servlet的路径:
     ```
     <form action="/upload" method="post" enctype="multipart/form-data">
@@ -29,7 +29,7 @@
 3. 在web.xml中增加servlet和servlet-mapping使对应路径能连接到uploadeServlet;
 
 ---
-####下载模块
+#### 下载模块
 1. 拿到文件;根据文件创建输入流;
 2. 拿到response对象,设置response的Header属性使浏览器在解析结果时将内容解析问下载文件而不是直接展示在页面上;
     ```
