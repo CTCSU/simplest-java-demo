@@ -1,0 +1,36 @@
+texcoco	  	特斯科科 	墨西哥地名
+xaltocan 	扎热特昆
+zumpango 	孙攀哥  	墨西哥地名
+cunning	  	狡猾的，精妙的
+prowess		实力
+stretch		延伸，延展
+wielding 	运用
+fiendish	残酷的
+dominion	统治权
+sacrificial	牺牲的
+captives	战俘
+jaguar		美洲虎
+wrest 		抢夺
+trireme		三层战船
+cotton		棉花
+dispersed	被驱散
+fortified	强化的
+melee		混战，混乱
+ranged combat	远程战斗
+halt		停止		
+contentment	满足
+garrison	警卫队
+zone		区域，地带
+troops		军队
+Cerro de Potosi	富饶山
+plantation	种植
+quarry		采石场
+chariot		敞篷双轮马车
+mounted		骑在马上的
+spearman	枪兵
+barracks	兵营
+optics		光学
+embark		装载，上船
+lumber		木材
+mill		磨坊
+dye		染料
